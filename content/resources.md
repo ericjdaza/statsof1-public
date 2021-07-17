@@ -149,6 +149,18 @@ The following [esametric](/about/) resources are ordered alphabetically, stratif
 
 * Onnela Lab at Harvard T.H. Chan School of Public Health: Beiwe Research Platform [hsph.harvard.edu/onnela-lab/beiwe-research-platform](https://www.hsph.harvard.edu/onnela-lab/beiwe-research-platform/)
 
+* The AWARE Framework [https://awareframework.com/](https://awareframework.com/)
+
+* The Reproducible Analysis Pipeline for Data Streams (RAPIDS) [https://www.rapids.science/](https://www.rapids.science/)
+
+* The Digital Biomarker Discovery Pipeline (DBDP) [https://dbdp.org/](https://dbdp.org/)
+
+* The Learn, Assess, Manage, Prevent (LAMP) platform [https://www.digitalpsych.org/lamp.html](https://www.digitalpsych.org/lamp.html)
+
+* The Remote assessment of Disease And Relapse (RADAR) platform [https://radar-base.org/](https://radar-base.org/)
+
+* The Effortless Assessment Research System (EARS) [https://ksanahealth.com/ears](https://ksanahealth.com/ears)
+
 ### Publications
 
 * Barnett I, Torous J, Staples P, Keshavan M, Onnela JP. Beyond smartphones and sensors: Choosing appropriate statistical methods for the analysis of longitudinal data. Journal of the American Medical Informatics Association. 2018 Dec;25(12):1669-74. [academic.oup.com/jamia/article/25/12/1669/5110357](https://academic.oup.com/jamia/article/25/12/1669/5110357)
@@ -283,6 +295,18 @@ The following [esametric](/about/) resources are ordered alphabetically, stratif
 * Using connected sensor technologies to measure health at home [npjdigitalmedcommunity.nature.com...](https://npjdigitalmedcommunity.nature.com/channels/677-behind-the-paper/posts/64818-using-connected-sensor-technologies-to-measure-health-at-home)
 
 * Wearable and Implantable Technology (WIT) [ciprianstats.org](http://ciprianstats.org/)
+
+* The AWARE Framework [https://awareframework.com/](https://awareframework.com/)
+
+* The Reproducible Analysis Pipeline for Data Streams (RAPIDS) [https://www.rapids.science/](https://www.rapids.science/)
+
+* The Digital Biomarker Discovery Pipeline (DBDP) [https://dbdp.org/](https://dbdp.org/)
+
+* The Learn, Assess, Manage, Prevent (LAMP) platform [https://www.digitalpsych.org/lamp.html](https://www.digitalpsych.org/lamp.html)
+
+* The Remote assessment of Disease And Relapse (RADAR) platform [https://radar-base.org/](https://radar-base.org/)
+
+* The Effortless Assessment Research System (EARS) [https://ksanahealth.com/ears](https://ksanahealth.com/ears)
 
 ### Publications
 
@@ -527,6 +551,18 @@ The following [esametric](/about/) resources are ordered alphabetically, stratif
 * Single Case Design Masked Visual Analysis (SCD-MVA) App [singlecasemva.app/](https://singlecasemva.app/)
 
 * Single Case Research (SCR): web based calculators for SCR analysis [singlecaseresearch.org](http://www.singlecaseresearch.org/)
+
+* The AWARE Framework [https://awareframework.com/](https://awareframework.com/)
+
+* The Reproducible Analysis Pipeline for Data Streams (RAPIDS) [https://www.rapids.science/](https://www.rapids.science/)
+
+* The Digital Biomarker Discovery Pipeline (DBDP) [https://dbdp.org/](https://dbdp.org/)
+
+* The Learn, Assess, Manage, Prevent (LAMP) platform [https://www.digitalpsych.org/lamp.html](https://www.digitalpsych.org/lamp.html)
+
+* The Remote assessment of Disease And Relapse (RADAR) platform [https://radar-base.org/](https://radar-base.org/)
+
+* The Effortless Assessment Research System (EARS) [https://ksanahealth.com/ears](https://ksanahealth.com/ears)
 
 ### Publications
 
